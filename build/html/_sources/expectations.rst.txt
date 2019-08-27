@@ -4,15 +4,17 @@ Expectations and Responsibilities
 Everyone
 ^^^^^^^^
 
-Big Picture
-^^^^^^^^^^^
+*Big Picture*
 
-Science is hard. But it’s also fun. In the Lab, we want to make sure that everyone experiences a positive, engaging, hostility-free, challenging, and rewarding lab environment. To maintain that environment, we all have to do a few things.
+Science is hard.  But it’s also fun. 
+In the Lab, we want to make sure that everyone experiences a positive, 
+engaging, hostility-free, challenging, and rewarding lab environment.
+To maintain that environment, we all have to do a few things.
 
 We expect that each other to:
 
 * Work hard, get things done, and be proud. Bragging is ok!
-* Pay attention to detail. Double check things. Assume that you have made a mistake and try to find it. 
+* Pay attention to detail. Double check things. Assume that you have made a mistake and try to find it.  
 * Science is a marathon, not a sprint. Don't rush things. Take your time to think things over and have a life outside the lab.
 * Mistakes are acceptable, of course. When we do mistakes, we admit to them, and we make sure we tell everyone who needs to know, we correct them and move on. We accept mistakes by others. But no scientific misconduct.
 * Help others and support those who are struggling. Science is a team effort and humans are social beings, we all stand to benefit from supporting each other.
@@ -25,8 +27,8 @@ We expect that each other to:
 * Be patient with Nikos. He will forget most of the things you discuss. Please send him reminders.
 * Have fun. Have a life outside the lab. Take breaks. Have hobbies. Invite me to your outings.
 
-Small Picture
-^^^^^^^^^^^^^
+*Small Picture*
+
 There are a few day-to-day things to keep in mind to keep the lab running smoothly.
 
 *	If you are not feeling well or fear that you may be ill, please stay home. This is important for you so that you rest and get better but also for not risking everyone else getting ill. 
