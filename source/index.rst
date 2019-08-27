@@ -13,8 +13,6 @@ Guide
    :caption: Contents:
 
    license
-   help
-
 
 
 Indices and tables
