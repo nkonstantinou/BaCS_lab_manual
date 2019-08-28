@@ -34,3 +34,65 @@ we emphasize practices that ensure reproducibility and replicability of research
 Science is teamwork. 
 We aim to create a supporting and welcoming environment where we enjoy doing science 
 and interacting with each other.
+
+
+**Tips on getting started**
+----------------------------
+
+It may be a bit daunting to understand how to start to be involved. Here are a few tips:
+
+1. **Understand what being involved entails**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Reading this manual is a great start. 
+   You can also visit our website and read the lab wiki.
+   You may also want to ask other lab members to have a chat with you about their experiences.
+
+2. **Reading the literature**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Consistently reading the literature is the best way to get started. 
+   It is a good habit to try  and read one paper every day.
+   You won't find all papers very interesting or relevant, but when you do take notes.
+
+3. **Invest in learning the necessary skills**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   There are many skills that are involved in being a successful member of the lab 
+   (note that not all skills are relevant to all roles), and many of them will be very new. 
+   You could start by learning the basics of how to create your own experiment in OpenSesame,
+   learn the basics of Python or Matlab programming, how to plot figures,  or the basics 
+   of doing statistical analyses using Python/Matlab/Jamovi. 
+   If you’re stuck on how to go about learning such skills, 
+   you can contact Nikos or other lab members.
+
+4. **Propose a discussion for a lab meeting**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Think about a paper you would like to present to us for discussion or
+   think about an experiment you want to perform.
+   Suggest that we hold a lab meeting on the topic.
+
+5. **Volunteer to be a pilot participant for experiments**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Often people in the lab will be developing their experimental paradigms 
+   and would appreciate a naive observer.
+   This is a good opportunity to both learn about the ongoing research of the lab 
+   and to experience what is like to be a participant in experiments. 
+   Of course, there is no obligation to participate in any studies. 
+
+
+6. **Subscribe journals - Scholar Alerts**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   One way to stay up to date with relevant research is to subscribe to a journal
+   mailing list and to also get Google Scholar reminders for phrases or publications
+   from relevant labs.
+
+
+Location
+----------
+The lab is currenlty located at the ground floor of the Rehabilitation Clinic. 
+
+Access to the building is provided to postdocs, graduate students and lab managers. Please speak to Nikos
+if you think you should be getting access with a set of keys and alarm passcodes. 
+
+Parking
+~~~~~~~~
+There is plenty of room for parking your car on designated areas around the building. 
+Please **do not** park on the pedestrian walkway. 
