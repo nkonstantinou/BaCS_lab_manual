@@ -1,6 +1,8 @@
 Expectations and Responsibilities
 =================================
 
+.. _above:
+
 Everyone
 ^^^^^^^^
 
@@ -14,11 +16,11 @@ To maintain that environment, we all have to do a few things.
 We expect that each other to:
 
 * Work hard, get things done, and be proud. Bragging is ok!
-* Pay attention to detail. Double check things. Assume that you have made a mistake and try to find it.  
+* Pay attention to detail. Double check things. Assume that you have made a mistake and try to find it.
 * Science is a marathon, not a sprint. Don't rush things. Take your time to think things over and have a life outside the lab.
 * Mistakes are acceptable, of course. When we do mistakes, we admit to them, and we make sure we tell everyone who needs to know, we correct them and move on. We accept mistakes by others. But no scientific misconduct.
 * Help others and support those who are struggling. Science is a team effort and humans are social beings, we all stand to benefit from supporting each other.
-* Share your knowledge openly. Ask for help when in need. Mentoring is part of doing great science. 
+* Share your knowledge openly. Ask for help when in need. Mentoring is part of doing great science.
 * Participate in science communication and dissemination activities of the lab. These include scientific conferences as well as activities for the general public (science festivals, articles in the press, Researcher's night, etc)
 * Respect each other's strengths, weaknesses, differences, and beliefs. We don't tolerate discrimination, tension or hostility. 
 * Invest on statistics and computer skills that are necessary. Matlab, Python, Jamovi, OpenSesame, PsychoPy, OSF, Github are some of the things you should master.
@@ -44,24 +46,24 @@ There are a few day-to-day things to keep in mind to keep the lab running smooth
 Principal Investigator
 ^^^^^^^^^^^^^^^^^^^^^^
 
-All of the above (everyone), plus you can expect me to:
+All of the above_, plus you can expect me to:
 
-*	Have a vision of where the lab is going
-*	Support you (scientifically, emotionally, financially)
-*	Obtain the necessary funding to support the projects and the people in the lab
-*	Give you feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grants
+*	Have a vision of where the lab is going.
+*	Support you (scientifically, emotionally, financially).
+*	Obtain the necessary funding to support the projects and the people in the lab.
+*	Give you feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grants.
 *	Communicate the work of the lab in conferences and to the general public.
-*	Be available in person and via e-mail on a regular basis (e.g. once a week), including regular meetings to discuss your research (and anything else you’d like to discuss)
-*	Give my perspective on where the lab is going, where the field is going, and tips about surviving and thriving in academia
-*	Support your career development by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit
-*	Help you prepare for the next step of your career, whether it’s a post-doc, a faculty job, or a job outside of academia
+*	Be available in person and via e-mail on a regular basis (e.g. once a week), including regular meetings to discuss your research (and anything else you’d like to discuss).
+*	Give my perspective on where the lab is going, where the field is going, and tips about surviving and thriving in academia.
+*	Support your career development by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit.
+*	Help you prepare for the next step of your career, whether it’s a post-doc, a faculty job, or a job outside of academia.
 *	Care for your emotional and physical well-being, and prioritize that above all else
  
  
 Post-Docs
 ^^^^^^^^^
 
-All of the above (everyone), and you will also be expected to:
+All of the above_, and you will also be expected to:
 
 *	Develop your own independent line of research
 *	Take care of all admin work related to your funding project.
@@ -74,7 +76,7 @@ All of the above (everyone), and you will also be expected to:
 Graduate Students:
 ^^^^^^^^^^^^^^^^^^
 During a PhD you will train on (1) thinking like a scientist and (2) a specific set of skills necessary for performing scientific experiments.
-All of the above (everyone), and you will also be expected to:
+All of the above_, and you will also be expected to:
 
 *	Know the literature very well. The best way is to be consistent with your reading (e.g. one paper every morning). You should also consider Google Scholar alerts, email notifications of journal tables of content, and follow scientists in your field on Twitter. 
 *	Invest in statistics and the software you need for performing the analyses. Examples include Matlab, Python, Jamovi, and R. 
@@ -93,7 +95,7 @@ All of the above (everyone), and you will also be expected to:
 Lab Managers 
 ^^^^^^^^^^^^
 
-All of the above (everyone), and you will also be expected to:
+All of the above_, and you will also be expected to:
 
 * Be available during normal working hours (typically between 9-5 or 10-6)
 * Take care of the physical space of the lab and help maintain a professional atmosphere in the lab.
@@ -110,7 +112,7 @@ All of the above (everyone), and you will also be expected to:
   
 Undergraduate Students
 ^^^^^^^^^^^^^^^^^^^^^^
-All of the above, and you will also be expected to:
+All of the above_, and you will also be expected to:
 
 * Assist other lab members with data collection and analysis (unless you are working on your own independent project under the mentorship of another lab member, in which case you should work on that) 
 * Develop your weekly schedule by talking to your graduate student mentor or your post-doc mentor. You should be coming in every week, and scheduling enough time to get your work done
