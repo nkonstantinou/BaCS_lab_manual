@@ -109,6 +109,7 @@ Communication
 I am usually busier than I’d like to be, and as a result have less time for talking to folks than I’d like. 
 However, you (lab members) are my team and one of the most important parts of my job, 
 so you take priority over many things. 
+
 Some general rules of below:
 
 1. Be proactive and tell me what you need and tell me soon. 
