@@ -17,6 +17,20 @@ The following are a set of principles, values, and skills that we aspire to inst
 We seek to develop scientists who are curious and motivated about finding the truth
 in any question that concerns them.
 
+**Dissemination**
+------------------------
+Communicating our work is essential. Our primary concern is scientific publications and
+conference presentations. However, it is also important to disseminate our work to the 
+general public, either through articles in the press or through activities is various 
+events such as Science Festivals and Science Cafés.
+
+**Funding and Grants**
+-----------------------
+It is my responsibility to obtain the necessary funds to keep the lab going.
+I do this through grant applications most of which are not successful. 
+I can use your help on this from time to time (for example, by asking for figures) 
+but I will also ask you to write grant proposals if we have an idea and you are eligible.
+
 **Computing & Equipment**
 --------------------------
 Most of our work depends on interacting with computers and other lab equipment 
