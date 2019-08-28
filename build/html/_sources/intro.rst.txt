@@ -83,10 +83,10 @@ It may be a bit daunting to understand how to start to be involved. Here are a f
    think about an experiment you want to perform.
    Suggest that we hold a lab meeting on the topic.
 
-5. **Volunteer to be a pilot participant for experiments**
+5. **Volunteer for experiments**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Often people in the lab will be developing their experimental paradigms 
-   and would appreciate a naive observer.
+   and would appreciate it if you volunteer as participant.
    This is a good opportunity to both learn about the ongoing research of the lab 
    and to experience what is like to be a participant in experiments. 
    Of course, there is no obligation to participate in any studies. 
