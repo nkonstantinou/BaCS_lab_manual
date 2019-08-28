@@ -102,15 +102,46 @@ Authorship
 ~~~~~~~~~~
 Like most labs in the field, we will follow the APA guidelines with respect to authorship here:
  
-"Authorship credit should reflect the individual's contribution to the study. An author is considered anyone involved with initial research design, data collection and analysis, manuscript drafting, and final approval. However, the following do not necessarily qualify for authorship: providing funding or resources, mentorship, or contributing research but not helping with the publication itself. The primary author assumes responsibility for the publication, making sure that the data are accurate, that all deserving authors have been credited, that all authors have given their approval to the final draft; and handles responses to inquiries after the manuscript is published."
+    *Authorship credit should reflect the individual's contribution to the study. \
+    An author is considered anyone involved with initial research design, data collection and analysis,\
+    manuscript drafting, and final approval. However, the following do not necessarily qualify for authorship: \ 
+    providing funding or resources, mentorship, or contributing research but not helping with the publication \ 
+    itself. The primary author assumes responsibility for the publication, making sure that the data are accurate, \
+    that all deserving authors have been credited, that all authors have given their approval to the final draft; \ 
+    and handles responses to inquiries after the manuscript is published.*
+
+Note that “collect data”, “analyze data”, or “fund the study” aren’t on the list. 
+Those are very important parts of a paper, but do not (on their own) warrant authorship. 
+Being an author means understanding the content and being willing to take public 
+responsibility for the work: 
+a large part of this concerns the theoretical motivation and implications of the research. 
+In practice theoretical contributions are most often made through helping with the study design, 
+data interpretation, and discussion about a topic. 
  
-Note that “collect data”, “analyze data”, or “fund the study” aren’t on the list. Those are very important parts of a paper, but do not (on their own) warrant authorship. Being an author means understanding the content and being willing to take public responsibility for the work: a large part of this concerns the theoretical motivation and implications of the research. In practice theoretical contributions are most often made through helping with the study design, data interpretation, and discussion about a topic. 
+Every project will have a lead researcher (usually a PhD student or a postdoc). 
+This person can expect to be first author on any publications coming out of this project. 
+Nikos, as the PI of the lab, will typically be the last (senior) author, 
+unless the project is under the guidance of another PI, in which case usually Nikos 
+will be second to last and the lead PI will be last. 
+Anyone who contributes to the intellectual scientific content and writing of the 
+manuscript in a meaningful way can expect to be added as an author. 
+All of these issues should and will be discussed openly, 
+and you should feel free to bring them up if you are not sure of your authorship status
+or want to challenge it. 
  
-Every project will have a lead researcher (usually a PhD student or a postdoc). This person can expect to be first author on any publications coming out of this project. Nikos, as the PI of the lab, will typically be the last (senior) author, unless the project is under the guidance of another PI, in which case usually Nikos will be second to last and the lead PI will be last. Anyone who contributes to the intellectual scientific content and writing of the manuscript in a meaningful way can expect to be added as an author. All of these issues should and will be discussed openly, and you should feel free to bring them up if you are not sure of your authorship status or want to challenge it. 
+If you are an undergraduate student, a master’s student, or a research assistant 
+you can still be an author on a paper. However, you will need to know enough (or learn enough) 
+about the project's subject to understand what we’ve done, and to significantly contribute to the writing. 
+I won’t add you to a paper just because I like you and want to help you out; 
+I will consider giving you the opportunity to be involved to a degree that you have earned authorship, 
+if you are willing to take on the challenge. 
  
-If you are an undergraduate student, a master’s student, or a research assistant you can still be an author on a paper. However, you will need to know enough (or learn enough) about the project's subject to understand what we’ve done, and to significantly contribute to the writing. I won’t add you to a paper just because I like you and want to help you out; I will consider giving you the opportunity to be involved to a degree that you have earned authorship, if you are willing to take on the challenge. 
- 
-It is worth pointing out that there are many views regarding authorship, and within any view there are always borderline cases. When collaborating with other people, we tend to defer to their own lab culture. However, it’s important that within our own lab, we are clear on the expectations for authorship and transparent about authorship discussions and decisions. If you ever have any questions, please come speak to me. 
+It is worth pointing out that there are many views regarding authorship, 
+and within any view there are always borderline cases. 
+When collaborating with other people, we tend to defer to their own lab culture. 
+However, it’s important that within our own lab, we are clear on the expectations 
+for authorship and transparent about authorship discussions and decisions. 
+If you ever have any questions, please come speak to me.
 
 Old projects
 ~~~~~~~~~~~~~~
