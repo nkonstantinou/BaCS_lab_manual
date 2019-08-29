@@ -16,12 +16,12 @@ personal development and social support between lab members.
 
 Important lab resources:
 
-•	Lab website: nkonstantinou.com
-•	Lab wiki: [under development]
+•	Lab website_ (https://www.nkonstantinou.com)
+•	Lab wiki
 •	Microsoft Teams: please send me an email (using CUT email) to add you
-•	Lab Dropbox: [need one]
-•	Facebook: [need one]
-•	Twitter: [need one]
+•	Lab Dropbox: please ask me for access
+
+.. _website: https://www.nkonstantinou.com 
 
 This lab manual is intended (1) as a point of reference for current lab members,
 and (2) as an introduction to lab practices and policies for new members. 
