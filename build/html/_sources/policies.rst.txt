@@ -196,6 +196,7 @@ Calendars
 ~~~~~~~~~
 The lab uses the following calendars. 
 You should always book a room you are using with participants or for meetings.
+Please send Nikos a message if you need access to any of these calendars.
 
 • TMS lab: used to book the lab space with the TMS equipment. 
 • Rehabilitation Clinic: used for booking rooms at the Clinic. Please indicate the room number.

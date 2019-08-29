@@ -15,6 +15,8 @@ Here is an overview of the contents of this site:
    expectations
    conduct
    policies
+   science
+   equipment
    license
 
 If you find this site useful, you have a question, comment, or correction, 

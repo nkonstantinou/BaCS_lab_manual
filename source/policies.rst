@@ -196,6 +196,25 @@ Calendars
 ~~~~~~~~~
 The lab uses the following calendars. 
 You should always book a room you are using with participants or for meetings.
+Please send Nikos a message if you need access to any of these calendars.
 
 • TMS lab: used to book the lab space with the TMS equipment. 
 • Rehabilitation Clinic: used for booking rooms at the Clinic. Please indicate the room number.
+
+Recommendation Letters
+-----------------------
+It is part of my job (and, thankfully, quite often a pleasure) to write letters of recommendation 
+for people in the lab. 
+Please give me as much notice as possible, and make sure I know the deadline, format (electronic? printed?), 
+official name of the organization, what you are applying for, and so on. Please also send along a current CV.
+
+Although I will write the letter, I will ask you to send me a draft of the letter 
+(which I will extensively modify). The first few times you do this it will probably feel awkward. 
+However, keep in mind that your goal is to make it as easy as possible for a letter writer 
+(in this case, me) to complete the task by the deadline and without error. 
+Even though I will re-word a lot of the letter, it will still have the name of what 
+you are applying for and details regarding how long I have known you, the projects you have worked on, and so on. 
+This is extremely helpful in jogging my memory and will give me more time to focus on saying good things about you. 
+Don’t worry about being too “braggy”; I have no problem toning things down if need be.
+
+Like everything else, communication is key, and when in doubt, ask!
