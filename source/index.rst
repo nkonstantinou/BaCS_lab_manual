@@ -1,4 +1,4 @@
-BaCS Lab Manual!
+BaCS Lab Manual
 ================
 
 Welcome to Brain and Cognitive Science Lab Manual.
