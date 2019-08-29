@@ -7,7 +7,7 @@ Cyprus University of Technology.
  
 This manual has been developed by the PI of the lab,
 Nikos Konstantinou.
-Most of the sections have been reproduced or inspired by others (e.g. ). 
+Most of the sections have been reproduced or inspired by others [#]_. 
  
 The lab manual, together with the Lab wiki ()
 and the Lab website (nkonstantinou.com),
@@ -23,8 +23,8 @@ Important lab resources:
 
 .. _website: https://www.nkonstantinou.com 
 
-This lab manual is intended (1) as a point of reference for current lab members,
-and (2) as an introduction to lab practices and policies for new members. 
+This lab manual is intended as a **point of reference** for current lab members,
+and as an **introduction** to lab practices and policies for new members. 
  
 Please note that the lab manual describes lab policies and practices.
 For specific lab resources and implementation cookbooks, please refer instead to lab wiki and lab MS Teams. 
@@ -32,3 +32,5 @@ For specific lab resources and implementation cookbooks, please refer instead to
 As a final note, please be aware that this lab manual will always be a work in progress.
 Feel free to send comments and suggestions and always refer to the latest version of the lab manual.
 
+
+.. [#]	This lab manual is grateful to  
