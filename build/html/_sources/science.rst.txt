@@ -57,7 +57,7 @@ such as a doctor’s office.
 
 For all participants:
 • Dress professionally: No pajamas, sports shorts or sandals. 
-  When in doubt, ask! This is true for both young and older adults — 
+  When in doubt, ask! This is true for both young and older adults —
   dressing professionally will help undergraduate participants to take the experiment seriously.
 • Answer the phone, and return all phone calls (and emails) promptly. 
   Tell participants who you are, and where you are calling from: 
