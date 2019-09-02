@@ -13,7 +13,8 @@ Please see a nice piece written in Nature_ by Mariam Aly_ on the importance of a
 
 .. _Nature: https://www.nature.com/articles/d41586-018-06167-w
 .. _Aly: https://www.alylab.org/mariam
- 
+
+
 This lab manual, together with the Lab wiki
 and the Lab website (https://www.nkonstantinou.com),
 contributes towards our lab's main goal of creating an environment of scientific excellence,
