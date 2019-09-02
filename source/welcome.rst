@@ -9,7 +9,7 @@ This manual has been developed by the PI of the lab,
 Nikos Konstantinou.
 Most of the sections have been reproduced or inspired by others [#]_. 
 
-Please see a nice piece written in Nature_ by Mariam Aly_ on the importance of a lab manual. 
+Please see a nice piece written in Nature_ by Mariam Aly_ on the importance of a lab manual.
 
 .. _Nature: https://www.nature.com/articles/d41586-018-06167-w
 .. _Aly: https://www.alylab.org/mariam
