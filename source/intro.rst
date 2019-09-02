@@ -115,7 +115,7 @@ Here are a few tips:
 
 .. _Google Scholar: https://scholar.google.com
 
-Location_
+Location
 ----------
 The lab is currenlty located at the ground floor of the Rehabilitation Clinic.
 
