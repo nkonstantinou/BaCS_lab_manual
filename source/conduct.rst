@@ -131,8 +131,7 @@ The following steps can improve the reproducibility of your research:
 * You should use version control as implemented by GitHub
   to keep track of code changes you make
   and when you made them, as well as sharing code with others.
-  Please go ahead and create a GitHub account if you don't already have one
-  (https:\\github.com).
+  Please go ahead and create a GitHub account if you don't already have one.
   Reproducibility is related to replicability,
   which refers to whether your results can be obtained again
   with a different data set.

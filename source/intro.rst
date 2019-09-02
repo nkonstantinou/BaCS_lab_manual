@@ -107,13 +107,11 @@ Here are a few tips:
    a participant in experiments.
    Of course, there is no obligation to participate in any studies.
 
-6. **Subscribe to journals and `Google Scholar`_ Alerts**
+6. **Subscribe to journals and Google Scholar Alerts**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    One way to stay up to date with relevant research is to
    subscribe to a journal mailing list and to also get Google Scholar reminders
    for phrases or publications from relevant labs.
-
-.. _Google Scholar: https://scholar.google.com
 
 Location
 ----------
