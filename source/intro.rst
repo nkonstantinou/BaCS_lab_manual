@@ -83,7 +83,7 @@ It may be a bit daunting to understand how to start to be involved. Here are a f
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Think about a paper you would like to present to us for discussion or
    think about an experiment you want to perform.
-   Suggest that we hold a lab meeting on the topic.
+   Ask to present it in one of the following lab meetings.
 
 5. **Volunteer for experiments**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,17 +93,19 @@ It may be a bit daunting to understand how to start to be involved. Here are a f
    and to experience what is like to be a participant in experiments. 
    Of course, there is no obligation to participate in any studies. 
 
-
-6. **Subscribe journals - Scholar Alerts**
+6. **Subscribe to journals and `Google Scholar`_ Alerts**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    One way to stay up to date with relevant research is to subscribe to a journal
    mailing list and to also get Google Scholar reminders for phrases or publications
    from relevant labs.
 
+.. _Google Scholar: https://scholar.google.com
 
-Location
+Location_
 ----------
 The lab is currenlty located at the ground floor of the Rehabilitation Clinic. 
+
+.. _Location_: https://goo.gl/maps/yMEBhDpXQz3CNLPY6
 
 Access to the building is provided to postdocs, graduate students and lab managers. Please speak to Nikos
 if you think you should be getting access with a set of keys and alarm passcodes. 
@@ -111,4 +113,4 @@ if you think you should be getting access with a set of keys and alarm passcodes
 Parking
 ~~~~~~~~
 There is plenty of room for parking your car on designated areas around the building. 
-Please **do not** park on the pedestrian walkway. 
+Please **do not** park on the pedestrian walkway and be mindful of patients entering the Clinic. 
