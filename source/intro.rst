@@ -119,7 +119,7 @@ Location_
 ----------
 The lab is currenlty located at the ground floor of the Rehabilitation Clinic.
 
-.. _Location_: https://goo.gl/maps/yMEBhDpXQz3CNLPY6
+See Google maps: https://goo.gl/maps/yMEBhDpXQz3CNLPY6
 
 Access to the building is provided to postdocs,
 graduate students and lab managers.
