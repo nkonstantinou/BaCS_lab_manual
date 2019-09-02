@@ -42,13 +42,15 @@ computer programming, and technical skills needed.
 -------------------------
 We aim to do high quality science in the field of Cognitive Neuroscience. For this, 
 we emphasize practices that ensure reproducibility and replicability of research. 
+We also support open science (see https://osf.io) and aim to register_ our studies.
+
+.. _register: https://cos.io/rr/
 
 **Collegiality**
 ------------------
 Science is teamwork. 
 We aim to create a supporting and welcoming environment where we enjoy doing science 
 and interacting with each other.
-
 
 **Tips on getting started**
 ----------------------------
@@ -64,7 +66,7 @@ It may be a bit daunting to understand how to start to be involved. Here are a f
 2. **Reading the literature**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Consistently reading the literature is the best way to get started. 
-   It is a good habit to try  and read one paper every day.
+   It is a good habit to try and read one paper every day.
    You won't find all papers very interesting or relevant, but when you do take notes.
 
 3. **Invest in learning the necessary skills**
