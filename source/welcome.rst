@@ -20,7 +20,7 @@ This lab manual, together with the Lab wiki
 and the Lab website (https://www.nkonstantinou.com),
 contributes towards our lab's main goal of creating
 an environment of scientific excellence,
-personal development and social support between lab members.
+personal development and collegiality between lab members.
 
 Important lab resources:
 
