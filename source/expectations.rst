@@ -97,6 +97,10 @@ to keep in mind to keep the lab running smoothly.
   don’t wear pajamas and sweat pants – but jeans are totally fine.
 * Avoid wearing very strong perfumes/colognes/etc.
   in the lab (for the sake of your coworkers and our participants).
+* Assumption is the mother of disaster. Ask if not sure.
+* Never write something in an email that you wouldn’t be willing to
+  post on a public web site.
+
 
 Principal Investigator
 ------------------------
