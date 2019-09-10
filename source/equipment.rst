@@ -16,6 +16,6 @@ can be found in the lab wiki.
 Please avoid writing computer passworeds on stickers
 and treat computer passwords confidentially.
 Try using a software for storing passwords.
-I can suggest [BitWarden](https://bitwarden.com).
+I can suggest [BitWarden.](https://bitwarden.com)
 
 Please always book lab space using the corresponding calendar.
