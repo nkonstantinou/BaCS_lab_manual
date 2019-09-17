@@ -114,4 +114,3 @@ You may also want to use an electronic notebook
 (e.g., Microsoft OneNote, Evernote)
 as your primary lab notebook, or to supplement a paper copy.
 The important thing is that you are keeping notes, and they are in one place.
-
