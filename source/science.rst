@@ -106,6 +106,10 @@ Lab notebook
 Anyone conducting an independent research project
 should have a lab notebook for keeping track
 of discussions, experiments, and taking notes.
+Consider creating a document that summarizes *every*
+decision you make, *why* you made it,
+and *who* helped make the decision.
+Also, use dates.
 You may also want to use an electronic notebook
 (e.g., Microsoft OneNote, Evernote)
 as your primary lab notebook, or to supplement a paper copy.
